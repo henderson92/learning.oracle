@@ -1,3 +1,3 @@
-# Learning.Data Science
+# Aprendizagem Data Science
 Projetos do Livro Introdução a Data Science
 
