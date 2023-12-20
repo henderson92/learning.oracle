@@ -1,3 +1,3 @@
 # learning.oracle
-Projetos do LivroIntrodução a Data Science
+Projetos do Livro Introdução a Data Science
 
